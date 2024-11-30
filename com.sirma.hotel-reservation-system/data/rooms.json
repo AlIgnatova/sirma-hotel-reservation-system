@@ -1,0 +1,16 @@
+[
+  {
+    "roomNumber": "101",
+    "type": "Deluxe",
+    "pricePerNight": 120,
+    "cancellationFee": 30,
+    "status": "available"
+  },
+  {
+    "roomNumber": "201",
+    "type": "Suite",
+    "pricePerNight": 250,
+    "cancellationFee": 50,
+    "status": "available"
+  }
+]

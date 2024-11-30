@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Deluxe",
+    "maxOccupancy": 2,
+    "amenities": ["Wi-Fi", "TV", "Mini Bar", "Air Conditioning"]
+  },
+  {
+    "name": "Suite",
+    "maxOccupancy": 4,
+    "amenities": ["Wi-Fi", "TV", "Mini Bar", "Air Conditioning", "Kitchenette"]
+  },
+  {
+    "name": "Single",
+    "maxOccupancy": 1,
+    "amenities": ["Wi-Fi", "TV"]
+  },
+  {
+    "name": "Double",
+    "maxOccupancy": 2,
+    "amenities": ["Wi-Fi", "TV", "Mini Bar"]
+  }
+]
