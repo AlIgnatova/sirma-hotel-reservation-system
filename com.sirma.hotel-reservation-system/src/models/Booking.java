@@ -50,5 +50,5 @@ public class Booking {
         System.out.println("End Date: " + this.endDate);
         System.out.println("Total Amount: $" + this.totalAmount);
     }
-    
+
 }
